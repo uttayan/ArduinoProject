@@ -7,4 +7,4 @@ HTTP_PORT=Port
 HTTP_METHOD= Method Post/Get
 HOST_NAME=Host: IPServer
 PATH_NAME=/pathname
-HTTP_Content=content typ
+HTTP_Content=content type
