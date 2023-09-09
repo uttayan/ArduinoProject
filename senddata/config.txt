@@ -1,0 +1,10 @@
+ip=IPAddress
+mask=IPSubmask
+gateway=IPGateway
+dns=IPdns
+server=IPserver
+HTTP_PORT=Port
+HTTP_METHOD= Method Post/Get
+HOST_NAME=Host: IPServer
+PATH_NAME=/pathname
+HTTP_Content=content typ
